@@ -16,13 +16,13 @@
         "url"                       : "https://github.com/eventEmitter/async-method/issues"
     }
     , "dependencies": {
-          "ee-class"                : "1.0.x"
-        , "es6-promise"             : "1.0.x"
-        , "ee-types"                : "0.1.x"
-        , "ee-log"                  : "0.3.x"
+          "ee-class"                : "~1.4.0"
+        , "es6-promise"             : "~4.1.0"
+        , "ee-types"                : "~2.1.2"
+        , "ee-log"                  : "~2.0.2"
     }
     , "devDependencies": {
-          "mocha"                   : "1.17.x"
+          "mocha"                   : "~3.3.0"
     }
     , "optionalDependencies": {}
     , "keywords"                    : ["async", "methods"]

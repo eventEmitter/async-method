@@ -1,5 +1,7 @@
 # async-method
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/async-method.svg)](https://greenkeeper.io/)
+
 Makes async methods work with callbacks and promises. You have a function on your class that expects a callback as last parameter? Wrap it using the asyncMethod and it returns a promise if the callback is omitted.
 
 ## installation
